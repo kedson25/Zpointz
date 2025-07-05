@@ -1,4 +1,4 @@
-# 🚀 Sistema Inteligente de Expedição
+# 🚀 Expedição Inteligente Zpoint
 
 ![Firebase](https://img.shields.io/badge/Firebase-integrado-orange)
 ![React](https://img.shields.io/badge/React-frontend-blue)
